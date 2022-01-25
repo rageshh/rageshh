@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rageshh
+- 👋 Hi, I’m Ragesh Hajela (@rageshh)
 - 👀 I’m interested in sharing new experiments in AI on edge.
 - 🌱 I’m currently learning building performance AI applications.
 - 💞️ I’m looking to collaborate on advocating open source projects.
